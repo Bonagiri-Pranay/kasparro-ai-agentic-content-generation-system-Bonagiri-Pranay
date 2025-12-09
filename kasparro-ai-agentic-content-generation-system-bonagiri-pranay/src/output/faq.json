@@ -1,0 +1,80 @@
+{
+  "title": "Frequently Asked Questions",
+  "faqs": [
+    {
+      "question": "What is GlowBoost Vitamin C Serum?",
+      "category": "Informational",
+      "answer": "GlowBoost Vitamin C Serum is a 10% Vitamin C serum that helps with Brightening, Fades dark spots."
+    },
+    {
+      "question": "How do I use it?",
+      "category": "Usage",
+      "answer": "Apply 2–3 drops in the morning before sunscreen."
+    },
+    {
+      "question": "Is it safe for sensitive skin?",
+      "category": "Safety",
+      "answer": "May cause Mild tingling for sensitive skin. for sensitive skin. Patch testing is recommended."
+    },
+    {
+      "question": "What is the price?",
+      "category": "Purchase",
+      "answer": "GlowBoost Vitamin C Serum is a 10% Vitamin C serum that helps with Brightening, Fades dark spots."
+    },
+    {
+      "question": "How does it compare to other serums?",
+      "category": "Comparison",
+      "answer": "It focuses on Vitamin C brightening; other serums may vary in strength and support ingredients."
+    },
+    {
+      "question": "Can I use it daily?",
+      "category": "Informational",
+      "answer": "Apply 2–3 drops in the morning before sunscreen."
+    },
+    {
+      "question": "Will it brighten my skin?",
+      "category": "Usage",
+      "answer": "This question relates to product usage based on the provided data."
+    },
+    {
+      "question": "Can it help with dark spots?",
+      "category": "Safety",
+      "answer": "This question relates to product usage based on the provided data."
+    },
+    {
+      "question": "Is it suitable for oily skin?",
+      "category": "Purchase",
+      "answer": "It is suitable for Oily, Combination skin types."
+    },
+    {
+      "question": "What are the key ingredients?",
+      "category": "Comparison",
+      "answer": "It contains Vitamin C, Hyaluronic Acid."
+    },
+    {
+      "question": "Does it hydrate the skin?",
+      "category": "Informational",
+      "answer": "This question relates to product usage based on the provided data."
+    },
+    {
+      "question": "When should I apply it?",
+      "category": "Usage",
+      "answer": "Apply 2–3 drops in the morning before sunscreen."
+    },
+    {
+      "question": "Can I mix it with other skincare products?",
+      "category": "Safety",
+      "answer": "Introduce it gradually and avoid combining too many strong actives."
+    },
+    {
+      "question": "How long until I see results?",
+      "category": "Purchase",
+      "answer": "Results usually require consistent use over a few weeks."
+    },
+    {
+      "question": "Is it okay for combination skin?",
+      "category": "Comparison",
+      "answer": "This question relates to product usage based on the provided data."
+    }
+  ]
+}
